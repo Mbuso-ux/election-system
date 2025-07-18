@@ -9,11 +9,26 @@
 
 **A secure, real-time election web application designed by me and my group members exclusively for Durban University of Technology (DUT) students in which I was a scrum master**
 
-[🚀 Live Demo](https://election-gr41.onrender.com) • [📖 Documentation](#installation--setup) • [🤝 Contributing](#contributing) • [📄 License](#license)
-
 </div>
 
 ---
+
+## 📚 Table of Contents
+
+- [✨ Overview](#️-overview)
+- [🎯 Key Features](#️-key-features)
+- [🛠️ Technology Stack](#️-technology-stack)
+- [📂 Project Architecture](#-project-architecture)
+- [🚀 Installation & Setup](#installation--setup)
+- [📖 Usage Guide](#️-usage-guide)
+- [🌐 Live Demo](#️-live-demo)
+- [🤝 Contributing](#contributing)
+- [📄 License](#license)
+- [👨‍💻 Author & Contact](#️-author--contact)
+- [🙏 Acknowledgments](#️-acknowledgments)
+
+---
+
 
 ## ✨ Overview
 
