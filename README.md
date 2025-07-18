@@ -309,8 +309,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy...
 
 <div align="center">
 
-**Built with ❤️ for the DUT Community**
-
 *Empowering student democracy through technology*
 
 </div>
